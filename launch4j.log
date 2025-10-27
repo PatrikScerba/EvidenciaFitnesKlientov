@@ -1,0 +1,176 @@
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.Evidencia.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.Evidencia.HlavneOkno
+Args length:	116/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.Evidencia.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.Evidencia.HlavneOkno
+Args length:	116/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.Evidencia.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.Evidencia.HlavneOkno
+Args length:	116/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.HlavneOkno
+Args length:	106/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.HlavneOkno
+Args length:	106/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.HlavneOkno
+Args length:	106/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.HlavneOkno
+Args length:	106/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\ProjektyGit\EvidenciaFitnesKlientov\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+JRE paths:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-20\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\patri\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\patri\AppData\Local\Programs\Python\Python35\;C:\Users\patri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Program Files (x86)\Brackets\;C:\Users\patri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\bin;C:\Users\patri\AppData\Roaming\npm;C:\Users\patri\AppData\Local\GitHubDesktop\bin;C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\\bin
+Check launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_007 / 64-Bit (OK)
+Main class:	sk.patrikscerba.HlavneOkno
+Info:		Classpath not defined.
+Launcher:	C:\Users\patri\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe" sk.patrikscerba.HlavneOkno
+Args length:	106/32768 chars
+Exit code:	0
