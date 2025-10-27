@@ -103,4 +103,15 @@ Cieľom bolo ukázať zvládnutie:
 
 💡 *Tento projekt je prvou stabilnou beta verziou aplikácie. Ďalším krokom bude databázová implementácia (MySQL) a webové rozhranie pomocou Spring Boot a React.*
 
+---
+
+## ⚖️ Licencia
+
+Projekt **Evidencia Fitnes Klientov** je určený na študijné a nekomerčné účely.  
+Kód je možné použiť na vzdelávacie účely s uvedením autora.  
+© 2025 Patrik Ščerba – všetky práva vyhradené.
+
+
+
+
 
