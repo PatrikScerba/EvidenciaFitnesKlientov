@@ -93,22 +93,23 @@ Vizualizácia hlavných častí desktopovej aplikácie **Evidencia Fitnes Klient
 
 
 ### 🧍‍♂️ Registrácia klienta
-![Registrácia klienta](screenshots/screenshot_2.png)
+![Registrácia klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20191802.png)
+
 
 ### 🔍 Vyhľadávanie klienta
-![Vyhľadávanie klienta](screenshots/screenshot_3.png)
+![Vyhľadávanie klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20191822.png)
+
 
 ### 📋 Zoznam všetkých klientov
-![Zoznam všetkých klientov](screenshots/screenshot_4.png)
+![Zoznam všetkých klientov](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20191843.png)
+
 
 ### ⚠️ Validácia vstupov
-![Validácia vstupov](screenshots/screenshot_5.png)
+![Neplatný formát e-mailu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20195214.png)
+
 
 ### ℹ️ Detail klienta
-![Detail klienta](screenshots/screenshot_6.png)
-
-### 🗑️ Potvrdenie vymazania
-![Potvrdenie vymazania](screenshots/screenshot_7.png)
+![Detail klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20194546.png)
 
 ---
 
