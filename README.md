@@ -89,7 +89,8 @@ Projekt bol otestovaný ako **desktopová CRUD aplikácia**:
 Vizualizácia hlavných častí desktopovej aplikácie **Evidencia Fitnes Klientov**:
 
 ### 🏠 Hlavné menu
-![Hlavné menu](screenshots/screenshot_1.png)
+![Hlavné menu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20191735.png)
+
 
 ### 🧍‍♂️ Registrácia klienta
 ![Registrácia klienta](screenshots/screenshot_2.png)
