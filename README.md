@@ -82,6 +82,40 @@ Projekt bol otestovaný ako **desktopová CRUD aplikácia**:
 
 ---
 
+---
+
+## 📸 Ukážky aplikácie
+
+Vizualizácia hlavných častí desktopovej aplikácie **Evidencia Fitnes Klientov**:
+
+### 🏠 Hlavné menu
+![Hlavné menu](screenshots/screenshot_1.png)
+
+### 🧍‍♂️ Registrácia klienta
+![Registrácia klienta](screenshots/screenshot_2.png)
+
+### 🔍 Vyhľadávanie klienta
+![Vyhľadávanie klienta](screenshots/screenshot_3.png)
+
+### 📋 Zoznam všetkých klientov
+![Zoznam všetkých klientov](screenshots/screenshot_4.png)
+
+### ⚠️ Validácia vstupov
+![Validácia vstupov](screenshots/screenshot_5.png)
+
+### ℹ️ Detail klienta
+![Detail klienta](screenshots/screenshot_6.png)
+
+### 🗑️ Potvrdenie vymazania
+![Potvrdenie vymazania](screenshots/screenshot_7.png)
+
+---
+
+> 💡 Obrázky slúžia ako demonštrácia funkčnosti GUI.  
+> Ide o desktopovú Java Swing aplikáciu s validáciou vstupov a perzistenciou dát do XML súboru.
+
+
+
 ## 👨‍💻 Autor
 
 **Patrik Ščerba**  
