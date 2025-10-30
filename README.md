@@ -105,11 +105,11 @@ Vizualizácia hlavných častí desktopovej aplikácie **Evidencia Fitnes Klient
 
 
 ### ⚠️ Validácia vstupov
-![Neplatný formát e-mailu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20195214.png)
+![Detail klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20194546.png)
 
 
 ### ℹ️ Detail klienta
-![Detail klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20194546.png)
+![Neplatný formát e-mailu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20195214.png)
 
 ---
 
