@@ -1,2 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<klienti/>
+<klienti>
+    <klient vek="38">
+        <krstneMeno>patrik</krstneMeno>
+        <priezvisko>Castle</priezvisko>
+        <email>PatrikCastle@gmail.com</email>
+        <telefonneCislo>0917331458</telefonneCislo>
+        <datumNarodenia>22.04.1981</datumNarodenia>
+    </klient>
+    <klient vek="12">
+        <krstneMeno>Kristian</krstneMeno>
+        <priezvisko>Dracter</priezvisko>
+        <email>KristianDracter@gmail.com</email>
+        <telefonneCislo>0978871111</telefonneCislo>
+        <datumNarodenia>04.05.1155</datumNarodenia>
+    </klient>
+    <klient vek="45">
+        <krstneMeno>Laura</krstneMeno>
+        <priezvisko>Bieter</priezvisko>
+        <email>LauraBieter@gmail.com</email>
+        <telefonneCislo>0917111111</telefonneCislo>
+        <datumNarodenia>01.04.1945</datumNarodenia>
+    </klient>
+    <klient vek="20">
+        <krstneMeno>Lukáš</krstneMeno>
+        <priezvisko>Ozimanič</priezvisko>
+        <email>lzukasozimanic@gmail.conm</email>
+        <telefonneCislo>0918777777</telefonneCislo>
+        <datumNarodenia>01.01.1999</datumNarodenia>
+    </klient>
+</klienti>

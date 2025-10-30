@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\ProjektyGit\EvidenciaFitnesKlientov\out\artifacts\EvidenciaFitnesKlientov_jar\EvidenciaFitnesKlientov.jar</jar>
+  <outfile>C:\ProjektyGit\EvidenciaFitnesKlientov\EvidenciaFitnesKlientov.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>sk.patrikscerba.EvidenciaApp </mainClass>
+    <cp>C:\ProjektyGit\EvidenciaFitnesKlientov\out\artifacts\EvidenciaFitnesKlientov_jar\EvidenciaFitnesKlientov.jar </cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>24</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>Stable </txtFileVersion>
+    <fileDescription>Desktopová aplikácia pre správu fitnes klientov </fileDescription>
+    <copyright>© 2025 Patrik Ščerba</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>Beta</txtProductVersion>
+    <productName>EvidenciaFitnesKlientov</productName>
+    <companyName>Patrik Ščerba</companyName>
+    <internalName>EvidenciaFitnesKlientov </internalName>
+    <originalFilename>EvidenciaFitnesKlientov.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>SLOVAK</language>
+  </versionInfo>
+</launch4jConfig>
