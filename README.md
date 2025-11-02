@@ -147,6 +147,27 @@ Projekt **Evidencia Fitnes Klientov** je určený na študijné a nekomerčné �
 Kód je možné použiť na vzdelávacie účely s uvedením autora.  
 © 2025 Patrik Ščerba – všetky práva vyhradené.
 
+---
+
+---
+
+## 💾 Inštalácia a spustenie aplikácie (.exe)
+
+Aplikácia **Evidencia Fitnes Klientov** je dostupná aj ako spustiteľný súbor (.exe) pre operačný systém **Windows**.  
+Tento súbor umožňuje používateľovi spustiť aplikáciu **bez potreby vývojového prostredia**.
+
+### 🔹 Spustenie
+1. Stiahnite súbor **`EvidenciaFitnesKlientov.exe`** z repozitára.  
+2. Uložte ho napríklad na pracovnú plochu.  
+3. Spustite ho **dvojklikom** – aplikácia sa automaticky otvorí.
+
+### ⚠️ Poznámka
+> Spustiteľný súbor je určený len pre **študijné a prezentačné účely**.  
+> Je vytvorený pomocou **Launch4j** a vyžaduje nainštalované prostredie **Java Runtime Environment (JRE 17+)**.
+
+
+
+
 
 
 
