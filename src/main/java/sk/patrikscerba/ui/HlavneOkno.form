@@ -36,7 +36,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="20"/>
-          <text value="Všetci klienti "/>
+          <text value="Zoznam klientov "/>
         </properties>
       </component>
       <hspacer id="3d714">
@@ -89,7 +89,7 @@
           <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
         </constraints>
       </vspacer>
-      <component id="bfb6e" class="javax.swing.JLabel">
+      <component id="bfb6e" class="javax.swing.JLabel" binding="developedByPatrikŠčerbaLabel">
         <constraints>
           <grid row="0" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -97,13 +97,13 @@
           <text value="Developed by Patrik Ščerba | Java Swing | © 2025"/>
         </properties>
       </component>
-      <component id="80002" class="javax.swing.JLabel" binding="verziaLabel">
+      <component id="80002" class="javax.swing.JLabel" binding="verzia100Label">
         <constraints>
           <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <font name="Segoe UI" size="12" style="2"/>
-          <text value="Verzia 1.0 Beta"/>
+          <text value="Verzia 1.0.0 Beta"/>
         </properties>
       </component>
     </children>

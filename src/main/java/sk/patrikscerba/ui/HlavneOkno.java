@@ -6,12 +6,14 @@ import javax.swing.*;
 public class HlavneOkno extends JFrame {
     public static void main(String[] args) {
     }
+
     //Hlavné okno aplikácie a jej komponenty
     private JPanel mainPanel;
     private JButton Registracia;
     private JButton Vyhladanie;
     private JButton Klienti;
-    private JLabel verziaLabel;
+    private JLabel verzia100Label;
+    private JLabel developedByPatrikŠčerbaLabel;
 
     //Konštruktor hlavného okna
     public HlavneOkno() {
@@ -25,10 +27,7 @@ public class HlavneOkno extends JFrame {
 
         //Nastavenie akcií tlačidiel v hlavnom okne
         Registracia.addActionListener(e -> new Registracia().setVisible(true));
-        Vyhladanie.addActionListener(e -> new Vyhladavanie(false).setVisible(true) );
-        Klienti.addActionListener(e -> new ZoznamKlientov().setVisible(true) );
+        Vyhladanie.addActionListener(e -> new Vyhladavanie(false).setVisible(true));
+        Klienti.addActionListener(e -> new ZoznamKlientov().setVisible(true));
     }
 }
-
-
-

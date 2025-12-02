@@ -20,7 +20,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Zatvoriť Detail"/>
+          <text value="Zatvoriť detail"/>
         </properties>
       </component>
       <component id="c20f7" class="javax.swing.JButton" binding="vymazatButton">
@@ -30,7 +30,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="vymazať klienta"/>
+          <text value="Vymazať klienta"/>
         </properties>
       </component>
       <component id="48b0f" class="javax.swing.JButton" binding="upravitButton">
@@ -40,7 +40,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="UPRAVIŤ KLIENTA"/>
+          <text value="Upraviť klienta"/>
         </properties>
       </component>
       <component id="eec7d" class="javax.swing.JLabel" binding="labKrstneMeno">
