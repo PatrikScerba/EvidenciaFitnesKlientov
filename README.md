@@ -1,18 +1,17 @@
 # 🏋️‍♂️ Evidencia Fitnes Klientov (Java + Swing + XML CRUD)
 
-Desktopová Java aplikácia pre správu klientov fitness centra.  
-Umožňuje registráciu, úpravu, vyhľadávanie a mazanie klientov so zápisom do XML súboru.  
-Projekt je postavený na **Java Swing GUI** a funguje ako **CRUD aplikácia (Create, Read, Update, Delete)**.
-
+Desktopová Java aplikácia pre správu klientov fitness centra.
+Umožňuje registráciu, úpravu, vyhľadávanie a mazanie klientov so zápisom do XML súboru.
+Projekt je postavený na Java Swing GUI a funguje ako CRUD aplikácia (Create, Read, Update, Delete).
 ---
 
 ## 🧠 Cieľ projektu
 
-Tento projekt vznikol ako súčasť môjho osobného plánu učenia sa Java vývoja (apríl – október 2025).  
-Projekt som vytvoril na základe **nadobudnutých znalostí z akreditovaného kurzu Java vývoja**,  
-v ktorom som osvojil princípy objektovo-orientovaného programovania (OOP), prácu so súbormi a tvorbu grafického rozhrania pomocou **Swing GUI**.  
+Tento projekt vznikol ako súčasť môjho osobného plánu učenia sa Java vývoja (apríl – október 2025).
+Projekt je vytvorený na základe nadobudnutých znalostí z akreditovaného kurzu Java vývoja,
+v ktorom som osvojil princípy objektovo-orientovaného programovania (OOP), prácu so súbormi a tvorbu grafického rozhrania pomocou Swing GUI.
 
-Cieľom bolo vytvoriť desktopovú aplikáciu na evidenciu fitnes klientov s podporou **CRUD operácií** a uložením dát do **XML súboru**.
+Cieľom bolo vytvoriť desktopovú aplikáciu na evidenciu fitnes klientov s podporou CRUD operácií a uložením dát do XML súboru.
 
 ---
 
@@ -33,14 +32,48 @@ Cieľom bolo vytvoriť desktopovú aplikáciu na evidenciu fitnes klientov s pod
 ---
 
 ## 🧱 Štruktúra projektu
+```
 src/
 └── main/
 ├── java/sk/patrikscerba/
-│ ├── data/ → Validácia a práca s XML (čítanie, zápis)
-│ ├── model/ → Trieda Klient (údaje o klientovi)
-│ └── ui/ → Swing GUI – okná aplikácie (Registrácia, Vyhľadávanie, Detail, Zoznam)
+│   ├── data/
+│   │   ├── ValidaciaVstupov.java
+│   │   ├── XMLNacitanieKlientov.java
+│   │   └── XMLZapisKlientov.java
+│   │
+│   ├── model/
+│   │   └── Klient.java
+│   │
+│   └── ui/
+│       ├── ZoznamKlientov/
+│       │   └── ZoznamKlientov.java
+│       │
+│       ├── DetailKlienta/
+│       │   ├── DetailKlienta.java
+│       │   └── DetailKlienta.form
+│       │
+│       ├── HlavneOkno/
+│       │   ├── HlavneOkno.java
+│       │   └── HlavneOkno.form
+│       │
+│       ├── Registracia/
+│       │   ├── Registracia.java
+│       │   └── Registracia.form
+│       │
+│       ├── Vyhladavanie/
+│       │   ├── Vyhladavanie.java
+│       │   └── Vyhladavanie.form
+│       │
+│       ├── Vymazanie/
+│       │   ├── Vymazanie.java
+│       │   └── Vymazanie.form
+│       │
+│       └── EvidenciaApp.java
+│
 └── resources/
-└── data/ → klienti.xml (úložisko dát)
+└── data/
+└── klienti.xml
+```
 
 
 ---
@@ -58,9 +91,22 @@ src/
 
 ## 🚀 Spustenie aplikácie
 
-Inštrukcie na spustenie budú doplnené v ďalšej verzii (po úprave spúšťania aplikácie).  
-Momentálne projekt funguje ako plnohodnotná desktopová Java aplikácia v prostredí **IntelliJ IDEA**,  
-kde je možné spúšťať ho priamo cez triedu `EvidenciaApp`.
+🔹 1. Spustenie priamo z IntelliJ IDEA (vývojársky režim)
+
+    Projekt je možné otvoriť v IntelliJ IDEA a spustiť cez hlavnú triedu:
+    EvidenciaApp
+
+
+🔹 2. Spustenie cez spustiteľný súbor (.exe)
+
+Aplikácia je dostupná aj ako Windows spustiteľný súbor, vygenerovaný pomocou Launch4j.
+
+👉 Postup:
+
+1. Stiahnite súbor EvidenciaFitnesKlientov.exe z repozitára.
+2. Uložte súbor .exe napríklad na pracovnú plochu.
+3. Spustíte ho dvojklikom – aplikácia sa otvorí okamžite.
+
 
 ---
 
@@ -78,7 +124,7 @@ Projekt bol otestovaný ako **desktopová CRUD aplikácia**:
 
 **Verzia 1.0.0 Beta – stabilná verzia (2025)**  
 > Základná desktopová verzia bez databázy.  
-> Plánované rozšírenie: MySQL + Spring Boot REST API.  
+> Plánované rozšírenie: MySQL + JDBC (verzia 2.0.0).
 
 ---
 
