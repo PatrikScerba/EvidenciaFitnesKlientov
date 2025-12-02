@@ -74,8 +74,6 @@ src/
 └── data/
 └── klienti.xml
 ```
-
-
 ---
 
 ## ⚙️ Použité technológie
@@ -91,22 +89,26 @@ src/
 
 ## 🚀 Spustenie aplikácie
 
-🔹 1. Spustenie priamo z IntelliJ IDEA (vývojársky režim)
+### 1️⃣ Spustenie pre vývojárov (IntelliJ IDEA – vývojársky režim)
 
     Projekt je možné otvoriť v IntelliJ IDEA a spustiť cez hlavnú triedu:
     EvidenciaApp
 
+---
 
-🔹 2. Spustenie cez spustiteľný súbor (.exe)
+### 2️⃣ Spustenie pre používateľov (.exe – Windows)
 
-Aplikácia je dostupná aj ako Windows spustiteľný súbor, vygenerovaný pomocou Launch4j.
+Aplikácia **Evidencia Fitnes Klientov** je dostupná aj ako spustiteľný súbor (.exe) pre operačný systém **Windows**.  
+Tento súbor umožňuje používateľovi spustiť aplikáciu **bez potreby vývojového prostredia**.
 
-👉 Postup:
+### 👉 Postup:
+1. Stiahnite súbor **`EvidenciaFitnesKlientov.exe`** z repozitára.
+2. Uložte ho napríklad na pracovnú plochu.
+3. Spustite ho **dvojklikom** – aplikácia sa automaticky otvorí.
 
-1. Stiahnite súbor EvidenciaFitnesKlientov.exe z repozitára.
-2. Uložte súbor .exe napríklad na pracovnú plochu.
-3. Spustíte ho dvojklikom – aplikácia sa otvorí okamžite.
-
+### ⚠️ Poznámka
+> Spustiteľný súbor je určený len pre **študijné a prezentačné účely**.  
+> Je vytvorený pomocou **Launch4j** a vyžaduje nainštalované prostredie **Java Runtime Environment (JRE 17+)**.
 
 ---
 
@@ -128,14 +130,13 @@ Projekt bol otestovaný ako **desktopová CRUD aplikácia**:
 
 ---
 
----
-
 ## 📸 Ukážky aplikácie
 
 Vizualizácia hlavných častí desktopovej aplikácie **Evidencia Fitnes Klientov**:
 
 ### 🏠 Hlavné menu
-![Hlavné menu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20191735.png)
+![Hlavné menu](screenshots/Sn%C3%ADmka%20obrazovky%202025-12-02%20182741.png)
+
 
 
 ### 🧍‍♂️ Registrácia klienta
@@ -151,11 +152,12 @@ Vizualizácia hlavných častí desktopovej aplikácie **Evidencia Fitnes Klient
 
 
 ### ⚠️ Validácia vstupov
-![Detail klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20194546.png)
+![Neplatný formát e-mailu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20194546.png)
 
 
 ### ℹ️ Detail klienta
-![Neplatný formát e-mailu](screenshots/Sn%C3%ADmka%20obrazovky%202025-10-27%20195214.png)
+![Detail klienta](screenshots/Sn%C3%ADmka%20obrazovky%202025-12-02%20182808.png)
+
 
 ---
 
@@ -193,23 +195,8 @@ Projekt **Evidencia Fitnes Klientov** je určený na študijné a nekomerčné �
 Kód je možné použiť na vzdelávacie účely s uvedením autora.  
 © 2025 Patrik Ščerba – všetky práva vyhradené.
 
----
 
----
 
-## 💾 Inštalácia a spustenie aplikácie (.exe)
-
-Aplikácia **Evidencia Fitnes Klientov** je dostupná aj ako spustiteľný súbor (.exe) pre operačný systém **Windows**.  
-Tento súbor umožňuje používateľovi spustiť aplikáciu **bez potreby vývojového prostredia**.
-
-### 🔹 Spustenie
-1. Stiahnite súbor **`EvidenciaFitnesKlientov.exe`** z repozitára.  
-2. Uložte ho napríklad na pracovnú plochu.  
-3. Spustite ho **dvojklikom** – aplikácia sa automaticky otvorí.
-
-### ⚠️ Poznámka
-> Spustiteľný súbor je určený len pre **študijné a prezentačné účely**.  
-> Je vytvorený pomocou **Launch4j** a vyžaduje nainštalované prostredie **Java Runtime Environment (JRE 17+)**.
 
 
 
